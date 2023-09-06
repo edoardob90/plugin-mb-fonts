@@ -1,0 +1,8 @@
+{
+  "version": "0.1.0",
+  "title": "Custom Fonts",
+  "description": "Load my custom fonts on Micro.blog",
+  "includes": [
+    "/css/fonts.css"
+  ]
+}
