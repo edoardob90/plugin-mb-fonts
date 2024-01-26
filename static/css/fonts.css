@@ -1,6 +1,5 @@
 /* Valkyrie B */
 
-/* 
 @font-face {
 	font-family: Valkyrie B;
 	font-style: normal;
@@ -28,7 +27,7 @@
 	font-weight: bold;
 	src: url('../fonts/valkyrie_b_bold_italic.woff2') format('woff2');
 }
- */
+
 
 /* Hermes Maia 4 Caps */
 
@@ -92,32 +91,32 @@
 	src: url('../fonts/heliotrope_4_caps_bold.woff2') format('woff2');
 }
 
-/* Heliotrope 3 */
+/* Heliotrope 4 */
 
 @font-face {
 	font-family: 'Heliotrope';
 	font-style: normal;
 	font-weight: normal;
-	src: url('../fonts/heliotrope_3_regular.woff2') format('woff2');
+	src: url('../fonts/heliotrope_4_regular.woff2') format('woff2');
 }
 
 @font-face {
 	font-family: 'Heliotrope';
 	font-style: italic;
 	font-weight: normal;
-	src: url('../fonts/heliotrope_3_italic.woff2') format('woff2');
+	src: url('../fonts/heliotrope_4_italic.woff2') format('woff2');
 }
 
 @font-face {
 	font-family: 'Heliotrope';
 	font-style: normal;
 	font-weight: bold;
-	src: url('../fonts/heliotrope_3_bold.woff2') format('woff2');
+	src: url('../fonts/heliotrope_4_bold.woff2') format('woff2');
 }
 
 @font-face {
 	font-family: 'Heliotrope';
 	font-style: italic;
 	font-weight: bold;
-	src: url('../fonts/heliotrope_3_bold_italic.woff2') format('woff2');
+	src: url('../fonts/heliotrope_4_bold_italic.woff2') format('woff2');
 }
