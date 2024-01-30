@@ -120,3 +120,19 @@
 	font-weight: bold;
 	src: url('../fonts/heliotrope_4_bold_italic.woff2') format('woff2');
 }
+
+/* Concourse 3 OT */
+
+@font-face {
+	font-family: 'Concourse OT';
+	font-style: normal;
+	font-weight: normal;
+	src: url('../fonts/concourse_ot_3_book.woff2') format('woff2');
+}
+
+@font-face {
+	font-family: 'Concourse OT';
+	font-style: italic;
+	font-weight: normal;
+	src: url('../fonts/concourse_ot_3_book_italic.woff2') format('woff2');
+}
